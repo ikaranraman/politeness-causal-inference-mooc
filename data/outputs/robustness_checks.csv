@@ -1,0 +1,6 @@
+Treatment,Mean ATE,Std ATE,Stable
+Anonymity,0.1737,0.024,Yes
+Question post,-0.2179,0.0085,Yes
+High urgency,0.0757,0.0063,Yes
+High confusion,0.1005,0.0084,Yes
+Late response timing,0.0985,0.0142,Yes
